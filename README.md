@@ -165,17 +165,6 @@ React • Node.js • Express.js • MySQL • Prisma • JWT
 
 ---
 
-### 📊 Car Data Analytics
-
-A data analytics project focused on exploring a car dataset containing information such as brands, years, prices, mileage and fuel types.
-
-**Tools:**
-Python • Jupyter Notebook • Data Analysis
-
-🔗 [View Repository](https://github.com/rameshwarisandile/car-data)
-
----
-
 ### 💻 SQL Data Analysis
 
 SQL-based practice and analytics projects focused on solving business-style questions using relational databases.
@@ -183,18 +172,6 @@ SQL-based practice and analytics projects focused on solving business-style ques
 **Skills demonstrated:**
 
 SQL • PostgreSQL • pgAdmin • Joins • CTEs • Subqueries • Window Functions • Aggregation
-
----
-
-## 💼 Experience
-
-### Full Stack Development Trainee
-
-**Elixir Strategic Management Pvt. Ltd., Nagpur**
-
-Currently developing practical skills in:
-
-`React` `Node.js` `Express.js` `MongoDB`
 
 ---
 
